@@ -122,6 +122,12 @@ These instruction files are general guidelines. We encourage you to customize th
 It's worth noting that the purpose of this feature is to guide Copilot in generating code that aligns with *your* standards. It's ultimately about your style and preferences, so please make sure to customize these instructions accordingly.
 
 ---
+## 🔔 Join the Conversation
+
+We're actively seeking feedback and ideas from the community! Check out our [GitHub Discussions](https://github.com/your-username/copilot-instructions/discussions) to participate.
+
+
+---
 
 ## 🤝 Contributing
 
